@@ -11,6 +11,8 @@ covers:
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23309#Klokje-Bim-BamRijmpjes-en-plaatjes-van-Alfred-Listal
 gutenberg_issued: '2007-11-03'
 gutenberg_type: Text
 identifiers:
